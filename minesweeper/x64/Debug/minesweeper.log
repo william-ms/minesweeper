@@ -1,0 +1,5 @@
+﻿  cApp.cpp
+C:\wxwidgets\include\wx\platform.h(159,10): fatal  error C1083: Não é possível abrir arquivo incluir: 'wx/setup.h': No such file or directory
+  cMain.cpp
+C:\wxwidgets\include\wx\platform.h(159,10): fatal  error C1083: Não é possível abrir arquivo incluir: 'wx/setup.h': No such file or directory
+  Gerando Código...
